@@ -1,0 +1,20 @@
+{
+  "name": "sdu_ags_library",
+  "description": "Library for the AGS Sensor Workshop",
+  "keywords": "Enginnering, SDU, University, AGS",
+  "authors": [
+    {
+      "name": "Falk Vincent von Appen",
+      "email": "faapp17@student.sdu.dk"
+    },
+    {
+      "name": "Jacob Caspers",
+      "email": "jacas17@student.sdu.dk"
+    }
+  ],
+  "version": "1.0.0",
+  "frameworks": "Arduino",
+  "examples": [
+    "examples/*/*.pde"
+  ]
+}
